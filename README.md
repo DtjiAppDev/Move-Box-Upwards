@@ -6,5 +6,5 @@ the box to the top of the board to gain points.
 Read the file "User Guide.pdf".
 
 ## Where to Download the File to Play the Game?
-To play the game, you need to download the ".exe file". 
-The ".exe" file is downloadable at https://github.com/CreativeCloudAppDev2020/Move-Box-Upwards/releases
+To play the game, you need to download either the ".exe" file or the ".apk" file. 
+Those files are downloadable at https://github.com/CreativeCloudAppDev2020/Move-Box-Upwards/releases
